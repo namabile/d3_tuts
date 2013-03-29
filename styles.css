@@ -1,0 +1,17 @@
+body {
+ 	font-family: Arial, "MS Trebuchet", sans-serif;
+ }
+ 
+.chart rect {
+	stroke: white;
+	stroke-width: 1px;
+	fill: steelblue;
+ }
+
+ h1 {
+ 	color: black;
+ }
+
+ .chart text {
+ 	fill: white;
+ }
